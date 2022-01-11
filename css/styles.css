@@ -160,10 +160,6 @@ a {
     color: white;
 }
 
-#prefooter p {
-    font-size: 0.75rem;
-}
-
 @media only screen and (max-width: 600px) {
     /*reglas*/
     /* column-3 pasará de tener 33.33% a 100% */
